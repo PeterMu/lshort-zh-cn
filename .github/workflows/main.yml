@@ -16,3 +16,4 @@ jobs:
       with:
         name: lshort-zh-cn
         path: src/lshort-zh-cn.pdf
+# test
